@@ -30,6 +30,10 @@ body {
     font-weight: bold;
 }
 
+footer{
+    margin: 80px;
+}
+
 footer a{
     font-family: 'Open Sans', sans-serif;
 
